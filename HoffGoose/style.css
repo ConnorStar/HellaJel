@@ -1,0 +1,11 @@
+body{
+    background-image: url("../src/images/Inside-Restaurant.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron{
+    background-color: #e7bdef;
+    width: 60%;
+    margin-left:auto;
+    margin-right:auto;
+}
